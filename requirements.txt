@@ -1,6 +1,6 @@
 numpy==1.19.5
 xlrd==1.2.0
 openpyxl==3.0.5
-plotly==4.9.0
+plotly==5.3.1
 streamlit==1.1.0
 pandas==1.0.5
